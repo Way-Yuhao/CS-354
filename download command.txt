@@ -1,0 +1,18 @@
+ssh yuhao@royal-07.cs.wisc.edu
+
+scp -r yuhao@royal-07.cs.wisc.edu:/p/course/cs354-skrentny/public/students/yuhao/p5/ .
+
+
+b7Q-4Gz-5J5-Gqz
+scp -r yuhao@royal-07.cs.wisc.edu:/p/course/cs354-skrentny/public/code/p3/ .
+
+
+gcc traverse_spiral.c -Wall -m32 -std=gnu99 -o traverse_spiral
+
+traverse_spiral traverse1.txt out.txt
+
+pin-fw/pin -injection child -t pin-fw/source/tools/Memory/obj-ia32/dcache.so -c 2 -a 1 -b 1 -o test1d -- cache1D
+
+/Users/LiuYuhao/OneDrive\ \-\ UW-Madison/UW/Spring\ 2019/CS\ 354/Programs/P4B
+
+/u/y/u/yuhao/private/cs354/p5

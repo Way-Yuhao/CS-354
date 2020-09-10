@@ -1,0 +1,8 @@
+LaunchTargetManager/configs/P4B\ Debug=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:P4B Debug
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:P4B\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:P4B\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
